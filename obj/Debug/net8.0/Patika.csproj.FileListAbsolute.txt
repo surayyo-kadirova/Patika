@@ -1,0 +1,14 @@
+/Users/surayyokadirova/Desktop/Patika/bin/Debug/net8.0/Patika
+/Users/surayyokadirova/Desktop/Patika/bin/Debug/net8.0/Patika.deps.json
+/Users/surayyokadirova/Desktop/Patika/bin/Debug/net8.0/Patika.runtimeconfig.json
+/Users/surayyokadirova/Desktop/Patika/bin/Debug/net8.0/Patika.dll
+/Users/surayyokadirova/Desktop/Patika/bin/Debug/net8.0/Patika.pdb
+/Users/surayyokadirova/Desktop/Patika/obj/Debug/net8.0/Patika.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surayyokadirova/Desktop/Patika/obj/Debug/net8.0/Patika.AssemblyInfoInputs.cache
+/Users/surayyokadirova/Desktop/Patika/obj/Debug/net8.0/Patika.AssemblyInfo.cs
+/Users/surayyokadirova/Desktop/Patika/obj/Debug/net8.0/Patika.csproj.CoreCompileInputs.cache
+/Users/surayyokadirova/Desktop/Patika/obj/Debug/net8.0/Patika.dll
+/Users/surayyokadirova/Desktop/Patika/obj/Debug/net8.0/refint/Patika.dll
+/Users/surayyokadirova/Desktop/Patika/obj/Debug/net8.0/Patika.pdb
+/Users/surayyokadirova/Desktop/Patika/obj/Debug/net8.0/Patika.genruntimeconfig.cache
+/Users/surayyokadirova/Desktop/Patika/obj/Debug/net8.0/ref/Patika.dll
